@@ -13,6 +13,13 @@
       "fechaEmision": "2026-08-31T11:18:27.5169464-03:00",
       "fechaVencimiento": null,
       "revocada": false
+    },
+    {
+      "cliente": "Optica Sunglass",
+      "machineId": "36D2BAF8-2A64-4E45-9AE8-A7AE8BA8091E",
+      "fechaEmision": "2026-08-31T11:39:45.342036-03:00",
+      "fechaVencimiento": null,
+      "revocada": false
     }
   ]
 }

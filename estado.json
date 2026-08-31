@@ -1,3 +1,11 @@
 {
-  "licencias": []
+  "licencias": [
+    {
+      "cliente": "Desarrollo Oficina",
+      "machineId": "99A3F688-C809-4105-A5B7-15AD55671F4C",
+      "fechaEmision": "2026-08-31T10:57:08.5449229-03:00",
+      "fechaVencimiento": null,
+      "revocada": false
+    }
+  ]
 }

@@ -20,6 +20,13 @@
       "fechaEmision": "2026-08-31T11:39:45.342036-03:00",
       "fechaVencimiento": null,
       "revocada": false
+    },
+    {
+      "cliente": "Optica AC Vision (Catamarca)",
+      "machineId": "6E24B2FE-7E48-4B49-A282-4102811347B3",
+      "fechaEmision": "2026-08-31T12:07:17.0107359-03:00",
+      "fechaVencimiento": null,
+      "revocada": false
     }
   ]
 }

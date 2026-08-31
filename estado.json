@@ -6,6 +6,13 @@
       "fechaEmision": "2026-08-31T10:57:08.5449229-03:00",
       "fechaVencimiento": null,
       "revocada": false
+    },
+    {
+      "cliente": "Pc Desarrollo 2",
+      "machineId": "1FE1BD6F-AAD9-453D-BD3E-25C06A65E2EF",
+      "fechaEmision": "2026-08-31T11:18:27.5169464-03:00",
+      "fechaVencimiento": null,
+      "revocada": false
     }
   ]
 }

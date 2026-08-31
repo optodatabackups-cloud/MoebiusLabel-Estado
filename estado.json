@@ -27,6 +27,13 @@
       "fechaEmision": "2026-08-31T12:07:17.0107359-03:00",
       "fechaVencimiento": null,
       "revocada": false
+    },
+    {
+      "cliente": "Optica Assesore",
+      "machineId": "A901BE7D-D1B9-45A1-BD99-5B0FAAE41B0A",
+      "fechaEmision": "2026-08-31T12:36:58.2709534-03:00",
+      "fechaVencimiento": null,
+      "revocada": false
     }
   ]
 }

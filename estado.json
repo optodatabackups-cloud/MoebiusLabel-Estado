@@ -34,6 +34,13 @@
       "fechaEmision": "2026-08-31T12:36:58.2709534-03:00",
       "fechaVencimiento": null,
       "revocada": false
+    },
+    {
+      "cliente": "Optica NeaVision",
+      "machineId": "AEEC5E5E-3044-45E1-A4DC-AABA0BBCB289",
+      "fechaEmision": "2026-09-17T13:27:29.0557058-03:00",
+      "fechaVencimiento": null,
+      "revocada": false
     }
   ]
 }

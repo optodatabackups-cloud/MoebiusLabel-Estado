@@ -41,6 +41,13 @@
       "fechaEmision": "2026-09-17T13:27:29.0557058-03:00",
       "fechaVencimiento": null,
       "revocada": false
+    },
+    {
+      "cliente": "Optica Vision Villa Mercedes",
+      "machineId": "ED09941F-C068-4158-850D-B8893A6CC35A",
+      "fechaEmision": "2026-09-21T13:08:07.2981719-03:00",
+      "fechaVencimiento": null,
+      "revocada": false
     }
   ]
 }

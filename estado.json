@@ -48,6 +48,13 @@
       "fechaEmision": "2026-09-21T13:08:07.2981719-03:00",
       "fechaVencimiento": null,
       "revocada": false
+    },
+    {
+      "cliente": "Laboratorio Optico Scerbo",
+      "machineId": "381922AC-E44F-4343-8BBB-ADCF1862514A",
+      "fechaEmision": "2026-10-15T12:31:02.1773072-03:00",
+      "fechaVencimiento": null,
+      "revocada": false
     }
   ]
 }
